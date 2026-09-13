@@ -102,3 +102,10 @@ CTestTestfile.cmake
 _deps
 
 /.vs*/
+FLACTargets.cmake
+examples/c/decode/file/decode_file
+examples/c/encode/file/encode_file
+examples/cpp/decode/file/decode_file_cxx
+examples/cpp/encode/file/encode_file_cxx
+flac-config-version.cmake
+flac-config.cmake
